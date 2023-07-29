@@ -42,3 +42,5 @@ OpenAI 接口管理 & 分发系统，支持多种渠道包括 Azure，可用于�
 免费的chatgpt客户端，国内免翻免登录Bing,必应无需密钥，无需登录
 ### [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator)
 一键翻译各类图片内文字
+### [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney)
+一键免费部署你的私人 ChatGPT+Midjourney 网页应用
