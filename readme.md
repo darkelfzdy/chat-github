@@ -30,9 +30,9 @@ ChatGPT桌面客户端
 一个Cloudflare worker脚本，用于转换OpenAI的key格式向Azure OpenAI服务发出的请求
 ### [songquanpeng/one-api](https://github.com/songquanpeng/one-api)
 OpenAI 接口管理 & 分发系统，支持多种渠道包括 Azure，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用.
-### [pengzhile/pandora](https://github.com/pengzhile/pandora)
+### [zhile-io/pandora](https://github.com/zhile-io/pandora)
 潘多拉，一个让你呼吸顺畅的ChatGPT。
-### [pengzhile/pandora-cloud-serverless](https://github.com/pengzhile/pandora-cloud-serverless)
+### [zhile-io/pandora-cloud-serverless](https://github.com/zhile-io/pandora-cloud-serverless)
 一个简单的仓库，用于Serverless部署Pandora-Cloud。
 ### [adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai)
 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
