@@ -48,3 +48,5 @@ OpenAI 接口管理 & 分发系统，支持多种渠道包括 Azure，可用于�
 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。解决了验证的问题
 ### [realDuang/ChatGPT-Next-Web](https://github.com/realDuang/ChatGPT-Next-Web)
 一键拥有你自己的跨平台 ChatGPT 应用。该项目增加 Azure OpenAI 支持。
+### [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter/)
+终端中的 OpenAI 代码解释器，在本地运行
