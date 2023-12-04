@@ -51,4 +51,4 @@ OpenAI 接口管理 & 分发系统，支持多种渠道包括 Azure，可用于�
 ### [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter/)
 终端中的 OpenAI 代码解释器，在本地运行。比较详细的介绍：https://www.qbitai.com/2023/09/85718.html
 ### [xazaj/AI-Brev-Prompt](https://github.com/xazaj/AI-Brev-Prompt)
-AI速览公众号发表Prompt合集，包括思维树决策提示词。
+AI速览公众号发表Prompt合集，包括思维树决策提示词。https://mp.weixin.qq.com/s/x-orbV4UWnKkmHVjiw1b6Q
