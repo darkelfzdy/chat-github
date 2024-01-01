@@ -54,3 +54,5 @@ OpenAI 接口管理 & 分发系统，支持多种渠道包括 Azure，可用于�
 AI速览公众号发表Prompt合集，包括思维树决策提示词。https://mp.weixin.qq.com/s/x-orbV4UWnKkmHVjiw1b6Q
 ### [unum-cloud/uform](https://github.com/unum-cloud/uform?tab=readme-ov-file#decoder)
 袖珍型多模态 AI，用于跨多语言文本、图像和视频的内容理解和🔜生成，比 OpenAI CLIP 和 LLaVA 🖼️ 🖋️ 快 5 倍
+### [ECNU-ICALK/EduChat](https://github.com/ECNU-ICALK/EduChat)
+开源中英教育对话大模型。(通用基座模型，GPU部署，数据清理) 致敬: LLaMA, MOSS, BELLE, Ziya, vLLM
