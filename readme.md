@@ -56,3 +56,5 @@ AI速览公众号发表Prompt合集，包括思维树决策提示词。https://m
 袖珍型多模态 AI，用于跨多语言文本、图像和视频的内容理解和🔜生成，比 OpenAI CLIP 和 LLaVA 🖼️ 🖋️ 快 5 倍
 ### [ECNU-ICALK/EduChat](https://github.com/ECNU-ICALK/EduChat)
 开源中英教育对话大模型。(通用基座模型，GPU部署，数据清理) 致敬: LLaMA, MOSS, BELLE, Ziya, vLLM
+### [alibaba-damo-academy/FunASR](https://github.com/alibaba-damo-academy/FunASR)
+语音转文字，适用中文。一个基础的端到端语音识别工具包和开源的SOTA预训练模型。
