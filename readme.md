@@ -58,3 +58,5 @@ AI速览公众号发表Prompt合集，包括思维树决策提示词。https://m
 开源中英教育对话大模型。(通用基座模型，GPU部署，数据清理) 致敬: LLaMA, MOSS, BELLE, Ziya, vLLM
 ### [alibaba-damo-academy/FunASR](https://github.com/alibaba-damo-academy/FunASR)
 语音转文字，适用中文。一个基础的端到端语音识别工具包和开源的SOTA预训练模型。
+### [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm)
+可以在手机上使用的开源大模型。让每个人都能够在自己的设备上本地开发、优化和部署AI模型。
