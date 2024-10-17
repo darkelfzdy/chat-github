@@ -64,3 +64,5 @@ AI速览公众号发表Prompt合集，包括思维树决策提示词。https://m
 分享我们在管理开放的 LLM 排行榜和设计 lighteval 时收集到的关于 LLM 评估的实践见解和理论知识！
 ### [dubeno/NotebookLLM-Chinese](https://github.com/dubeno/NotebookLLM-Chinese)
 这是一个由AI生成的基于Electron的跨平台的中文版NoteBookLM，该应用可以使用LLM生成具有深度的访谈对话文本，同时基于 文本可以继续生成富有情感的语音，访谈预设三个角色【嘉宾、主持人、专家】，访谈的形式是嘉宾提出问题或者主题 主持人负责采访和深挖主题，专家负责解读访谈的内容，升华内容。
+### [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo)
+Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
